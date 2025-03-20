@@ -44,7 +44,7 @@ drag-drop-azeoo-theoflores/
 
 ```bash
 # Cloner le dépôt
-git clone [URL_DU_DEPOT]
+git clone https://github.com/theo-flrs/drag-drop-azeoo-theoflores
 cd drag-drop-azeoo-theoflores
 
 # Installer les dépendances
